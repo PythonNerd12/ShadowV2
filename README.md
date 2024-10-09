@@ -8,7 +8,7 @@ any questions? dm me on discord, @Philly622
 
 
 
-1. Download the file
+1. Download the file, AS A ZIP 
 2. Extract the ZIP file
 3. Open it
 4. Open the bat file
