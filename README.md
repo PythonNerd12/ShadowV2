@@ -2,7 +2,7 @@ Hello, this is my first ever Batch file coding thing, i used a tut from @Ebolama
 if u wanna try it out follow these steps
 
 
-any questions? dm me on discord, @Philly622
+any questions? dm me on Telegram  https://t.me/Gamingtriadcraft
 
 
 
